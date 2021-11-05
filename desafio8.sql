@@ -9,4 +9,3 @@ BEGIN
   DELETE FROM SpotifyClone.reproducoes
   WHERE OLD.usuario_id = usuario_id;
 END $$
-** ainda não comitei
